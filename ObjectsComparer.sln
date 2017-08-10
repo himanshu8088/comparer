@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectsComparer", "ObjectsComparer\ObjectsComparer.csproj", "{743CEB36-87BE-4560-8469-AE8F254D4AED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectsComparerFixture", "ObjectsComparerFixture\ObjectsComparerFixture.csproj", "{AC1C8821-0F44-4B73-BF8F-4D7062209B1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{743CEB36-87BE-4560-8469-AE8F254D4AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{743CEB36-87BE-4560-8469-AE8F254D4AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{743CEB36-87BE-4560-8469-AE8F254D4AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC1C8821-0F44-4B73-BF8F-4D7062209B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC1C8821-0F44-4B73-BF8F-4D7062209B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC1C8821-0F44-4B73-BF8F-4D7062209B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC1C8821-0F44-4B73-BF8F-4D7062209B1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
